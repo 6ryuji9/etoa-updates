@@ -1,0 +1,9 @@
+{
+  "packageName": "dev.etoa.standalone",
+  "versionCode": 77,
+  "versionName": "0.7.7-alpha",
+  "notes": "ETOA 0.7.7-alpha / signed Android update. 会話・長期記憶・GGUFを保持する上書き更新です。",
+  "apkUrl": "https://github.com/6ryuji9/etoa-updates/releases/download/v0.7.7-alpha/etoa-0.7.7-alpha.apk",
+  "sizeBytes": 83273493,
+  "sha256": "9ad2f874defd329375db43744485ebfdaa1ebd4cef75933d2f18cc3b2e739198"
+}
