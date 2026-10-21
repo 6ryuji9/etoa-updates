@@ -1,9 +1,9 @@
 {
   "packageName": "dev.etoa.standalone",
-  "versionCode": 78,
-  "versionName": "0.7.8-alpha",
-  "notes": "ETOA 0.7.8-alpha / signed Android update. 会話・長期記憶・GGUFを保持する上書き更新です。",
-  "apkUrl": "https://github.com/6ryuji9/etoa-updates/releases/download/v0.7.8-alpha/etoa-0.7.8-alpha.apk",
-  "sizeBytes": 83273533,
-  "sha256": "d61121e1a2258689f8cc97117f59aea010894dc97d353665a8d3e2602d208556"
+  "versionCode": 79,
+  "versionName": "0.7.9-alpha",
+  "notes": "ETOA 0.7.9-alpha / signed Android update. 会話・長期記憶・GGUFを保持する上書き更新です。",
+  "apkUrl": "https://github.com/6ryuji9/etoa-updates/releases/download/v0.7.9-alpha/etoa-0.7.9-alpha.apk",
+  "sizeBytes": 83276401,
+  "sha256": "961e0d470a0f8807936df5a90b4a5df1945dc1ab7665183a75724f95402de5cd"
 }
